@@ -13,15 +13,16 @@ This project is a Java-based application that calculates and displays student gr
 To run this project locally, follow these steps:
 
 1. *Clone the repository*:
+2. https://github.com/Farihagill/grade_calculator
     sh
    https://studentgradecalculator.java/
 
-2. *Navigate to the project directory*:
+3. *Navigate to the project directory*:
     sh
     cd student-grade-calculator
     
 
-3. *Open the project in IntelliJ IDEA*:
+4. *Open the project in IntelliJ IDEA*:
     - Open IntelliJ IDEA and select Open or Import.
     - Navigate to the project directory and select it.
     - Wait for IntelliJ IDEA to load and index the project.
