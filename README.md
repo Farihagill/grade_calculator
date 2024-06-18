@@ -59,3 +59,8 @@ Enter Jane Smith's score in English: 80
 
 John Doe's average score is 87.67 and grade is A.
 Jane Smith's average score is 80.00 and grade is B.# grade_calculator
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
